@@ -1,0 +1,4 @@
+1) Parse existing calendars and put the data into the database
+2) Subscribe on updates with filters
+3) Generate page with calendar and list of events (with filters)
+4) Notifications about new events
